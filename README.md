@@ -92,13 +92,13 @@
 
 ###
 
-![snake gif](https://github.com/onuraydi/onuraydi/blob/output/github-contribution-grid-snake.gif)
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/onuraydi/count.svg?"  />
 </div>
+
+###
+
+![snake gif](https://github.com/onuraydi/onuraydi/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
