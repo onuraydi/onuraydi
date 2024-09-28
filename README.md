@@ -98,6 +98,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/onuraydi/onuraydi/output/snake.svg" alt="Snake animation" />
+
 
 ###
